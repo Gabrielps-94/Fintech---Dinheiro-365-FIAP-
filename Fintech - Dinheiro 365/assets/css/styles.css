@@ -1,0 +1,80 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(../images/Fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+header {
+    background-color:rgb(69, 42, 165);
+    color: white;
+    border: solid;
+    width: 15%;
+    height: 50px;
+    margin: 1px auto;
+    text-align: center;
+    font-size: 32px;
+    display: grid;
+}
+
+i {
+    color: green;
+}
+
+fieldset p {
+    width: 35%;
+    height: 50px;
+    margin: 1px auto;
+    font-size: 36px;
+    text-align: center;
+    background-color: green;
+}
+
+h1 {
+    color: rgb(69, 42, 165);
+    font-size: 40px;
+    font-weight: 450;
+    font-style: italic;
+    text-align: center;
+    line-height: 27px;
+    clear: both;
+}
+
+h2 {
+    color:rgb(7, 2, 51);
+    margin: 20px;
+    font-size:19px; 
+}
+
+#Boas-vindas{
+    width: 15%;
+    height: 30px;
+    margin: 5px auto;
+    font-size: 25px;
+    background-color: rgb(69, 42, 165);
+    color: rgb(252, 252, 252);
+    border: 3px solid rgb(250, 248, 248);
+    text-align: center;
+}
+
+p {
+    width: 300px;
+    height: fit-content;
+    margin: 25px;
+    background-color: rgb(69, 42, 165);
+    color: rgb(252, 252, 252);
+    border: 5px solid white;
+}
+
+legend {
+    padding: 20px;
+    color:black;
+}
+
+legend:hover {
+    color: deepskyblue;
+}
+
+
